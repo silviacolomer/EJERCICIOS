@@ -2,6 +2,4 @@
 
 # Hola, mundo!
 
-# Modificación reto 2
-
-# Módificación reto ---- 4!!!! nnnnnnnnnn!!!
+# Cambio de la rama 2
